@@ -13,7 +13,7 @@
 
 
 ## ✅ Algorithm
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=tldnr)](https://solved.ac/tldnr1)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=tldnr1)](https://solved.ac/tldnr1)
 
 ## :mailbox_with_mail: Contacts
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lsy3192@gmail.com)](mailto:lsy3192@gmail.com)
