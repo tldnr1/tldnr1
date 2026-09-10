@@ -1,5 +1,5 @@
-# LEE SI WOOK 🤪
-###  안녕하세요 👋 <br> 백엔드와 AI를 공부하는 이시욱 입니다
+# LEE SI WOOK
+###  안녕하세요 <br> 백엔드와 AI를 공부하는 이시욱 입니다
 
 
 ## 💻 Stacks
